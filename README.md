@@ -1,2 +1,2 @@
 # codewars
-Выполнение задач на https://www.codewars.com/kata/
+Выполнение задач на https://www.codewars.com/
